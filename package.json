@@ -1,5 +1,5 @@
 {
-  "name": "@2fd/graphdoc",
+  "name": "@bitliner/wonderdoc",
   "version": "2.4.0",
   "description": "Static page generator for documenting GraphQL Schema",
   "main": "bin/graphdoc",

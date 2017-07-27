@@ -1,3 +1,19 @@
+THIS MODULE IS @2fd/graphdoc CONVERTED TO @bitliner/wonderdoc IN ORDER TO SUPPORT GENERATION FROM JAVASCIRPT FILE, WHILE WAITING FOR PULL REQUEST BEING ACCEPTED.
+
+WRITING GRAPHQL SCHEMA IN JAVASCRIPT FILE IS USEFUL TO [MODULARIZE THE SCHEMA](http://dev.apollodata.com/tools/graphql-tools/generate-schema.html#modularizing)
+
+Consider to add the following use case:
+
+### Generate documentation from json file
+
+```bash
+    > graphdoc -s ./schema.js -o ./doc/schema
+```
+
+
+
+--
+
 # Static page generator for documenting GraphQL Schema
 
 [![Build Status](https://travis-ci.org/2fd/graphdoc.svg?branch=master)](https://travis-ci.org/2fd/graphdoc)
