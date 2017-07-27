@@ -61,7 +61,7 @@
     "request": "^2.79.0",
     "slug": "^0.9.1",
     "striptags": "^3.0.1",
-    "word-wrap": "1.2.1"
+    "word-wrap": "^1.2.3"
   },
   "graphdoc": {
     "ga": "UA-54154153-2",
